@@ -3,5 +3,15 @@
         "title": "Second Note",
         "text": "This is another note!",
         "id": "861bd253-8838-466d-9603-1569b84f09c5"
+    },
+    {
+        "title": "Note 1",
+        "text": "My First note",
+        "id": "70192e2d-42d5-4138-b621-49e6a4c426ae"
+    },
+    {
+        "title": "Note 2",
+        "text": "This is my second note",
+        "id": "8a1e2132-24f0-4101-83e1-68749155232c"
     }
 ]
