@@ -31,6 +31,11 @@ const readAndAppend = (content, file) => {
   });
 };
 
+/**
+ * Function to delete the data from list of object depending on the id of the column the button is in 
+ * @param {object} the column where the button presides 
+ * @returns {id} id of the data column the button is in
+ */
 const readAndDelete = (id, filename) => {
     fs.readFile(filename, 'utf8', (err, data) => {
         if(err){
